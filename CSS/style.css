@@ -1,0 +1,39 @@
+
+
+/*- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Weights: 500, 700
+- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
+- Weights: 700*/
+
+body{
+    --dark-cyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+    --very-dark-blue: hsl(212, 21%, 14%);
+    --dark-grayish-blue: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+    
+
+}
+
+main{
+    border-radius: 20px;
+}
+
+figure{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+    display: flex;
+
+}
+
+a{
+    text-transform: uppercase;
+
+}
+
+p{
+    Font size: 14px
+}
